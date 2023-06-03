@@ -15,20 +15,21 @@ As we all know House Prices can be affected by several factors such as the year 
 In this repository you will find the dataset used, a file tbat describes the meaning of the data, a jupyter-notebook and a HTML file which contain the whole process of the regression analysis. <br>
 
 In this work we cover:
-## Data Cleansing
 
-## EDA
+**Data Cleansing** <br>
 
-## Feature Engineering
+**EDA** <br>
 
-## Features Transformation
+**Feature Engineering** <br>
 
-## Target Transformation
+**Features Transformation** <br>
 
-## Endcode and Scale Data
+**Target Transformation** <br>
 
-## Data Selection
+**Endcode and Scale Data** <br>
 
-## Model Selection
+**Data Selection** <br>
 
-## Hyperparameter Optimization
+**Model Selection** <br>
+
+**Hyperparameter Optimization** <br>
